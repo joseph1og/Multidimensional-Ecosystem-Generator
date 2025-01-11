@@ -59,4 +59,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/life-forms.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: multidimensional-ecosystem-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/multidimensional-ecosystem-nft.clar
+            clarity-version: 2
       epoch: "2.5"

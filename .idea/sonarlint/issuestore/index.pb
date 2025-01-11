@@ -9,3 +9,9 @@ I
 contracts/life-forms.clar,7/4/74eec6cf353c0a7cf117c3887c4a40308be4f518
 H
 tests/life-forms.test.ts,7/9/791eda80ce019ef6c0efcdd7cae17cd33db12712
+]
+-contracts/multidimensional-ecosystem-nft.clar,7/9/793f07eb6364ca0c22479e652824d0791d2a826d
+X
+(contracts/simulation-resource-token.clar,d/2/d284eb8afd7759187edf4cbb4a798f438261a6a5
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2

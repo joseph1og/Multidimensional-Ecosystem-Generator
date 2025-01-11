@@ -15,3 +15,5 @@ X
 (contracts/simulation-resource-token.clar,d/2/d284eb8afd7759187edf4cbb4a798f438261a6a5
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+W
+'tests/simulation-resource-token.test.ts,e/9/e96424ea2a6babe8729dfd6cc244a5f310185d75
